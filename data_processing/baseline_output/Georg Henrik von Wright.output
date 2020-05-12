@@ -1,0 +1,373 @@
+Document: ID=Georg Henrik von Wright (12 sentences, 275 tokens)
+
+Sentence #1 (31 tokens):
+Georg Henrik von Wright (, 14 June 1916 &ndash; 16 June 2003) was a Finnish philosopher, who succeeded Ludwig Wittgenstein as professor at the University of Cambridge.
+
+Tokens:
+Georg
+Henrik
+von
+Wright
+(
+,
+14
+June
+1916
+&ndash;
+16
+June
+2003
+)
+was
+a
+Finnish
+philosopher
+,
+who
+succeeded
+Ludwig
+Wittgenstein
+as
+professor
+at
+the
+University
+of
+Cambridge
+.
+
+Sentence #2 (13 tokens):
+He published in English, Finnish, German, and in Swedish.
+
+Tokens:
+He
+published
+in
+English
+,
+Finnish
+,
+German
+,
+and
+in
+Swedish
+.
+
+Sentence #3 (22 tokens):
+Belonging to the Swedish-speaking minority of Finland, von Wright also had Finnish and 17th-century Scottish ancestors.
+
+Tokens:
+Belonging
+to
+the
+Swedish
+-
+speaking
+minority
+of
+Finland
+,
+von
+Wright
+also
+had
+Finnish
+and
+17th
+-
+century
+Scottish
+ancestors
+.
+
+Sentence #4 (10 tokens):
+Von Wright's writings come under two broad categories.
+
+Tokens:
+Von
+Wright
+'s
+writings
+come
+under
+two
+broad
+categories
+.
+
+Sentence #5 (15 tokens):
+The first is analytic philosophy and philosophical logic in the Anglo-American vein.
+
+Tokens:
+The
+first
+is
+analytic
+philosophy
+and
+philosophical
+logic
+in
+the
+Anglo
+-
+American
+vein
+.
+
+Sentence #6 (28 tokens):
+His 1951 books, An Essay in Modal Logic and Deontic Logic, were landmarks in the postwar rise of formal modal logic and its deontic version.
+
+Tokens:
+His
+1951
+books
+,
+An
+Essay
+in
+Modal
+Logic
+and
+Deontic
+Logic
+,
+were
+landmarks
+in
+the
+postwar
+rise
+of
+formal
+modal
+logic
+and
+its
+deontic
+version
+.
+
+Sentence #7 (12 tokens):
+He was an authority on Wittgenstein, editing his later works.
+
+Tokens:
+He
+was
+an
+authority
+on
+Wittgenstein
+,
+editing
+his
+later
+works
+.
+
+Sentence #8 (42 tokens):
+He was the leading figure in the Finnish philosophy of his time, specializing in philosophical logic, philosophical analysis, philosophy of action, philosophy of language, philosophy of mind, and the close study of Charles Sanders Peirce.
+
+Tokens:
+He
+was
+the
+leading
+figure
+in
+the
+Finnish
+philosophy
+of
+his
+time
+,
+specializing
+in
+philosophical
+logic
+,
+philosophical
+analysis
+,
+philosophy
+of
+action
+,
+philosophy
+of
+language
+,
+philosophy
+of
+mind
+,
+and
+the
+close
+study
+of
+Charles
+Sanders
+Peirce
+.
+
+Sentence #9 (13 tokens):
+The other vein in von Wright's writings is moralist and pessimist.
+
+Tokens:
+The
+other
+vein
+in
+von
+Wright
+'s
+writings
+is
+moralist
+and
+pessimist
+.
+
+Sentence #10 (32 tokens):
+During the last twenty years of his life, under the influence of Oswald Spengler, Jürgen Habermas and the Frankfurt school's reflections about modern Rationality, he wrote prolifically.
+
+Tokens:
+During
+the
+last
+twenty
+years
+of
+his
+life
+,
+under
+the
+influence
+of
+Oswald
+Spengler
+,
+Jürgen
+Habermas
+and
+the
+Frankfurt
+school
+'s
+reflections
+about
+modern
+Rationality
+,
+he
+wrote
+prolifically
+.
+
+Sentence #11 (32 tokens):
+His best known article from this period is entitled The Myth of Progress, and it questions whether our apparent material and technological progress can really be considered "progress".
+
+Tokens:
+His
+best
+known
+article
+from
+this
+period
+is
+entitled
+The
+Myth
+of
+Progress
+,
+and
+it
+questions
+whether
+our
+apparent
+material
+and
+technological
+progress
+can
+really
+be
+considered
+"
+progress
+"
+.
+
+Sentence #12 (25 tokens):
+In the last year of his life, among his other honorary degrees, he held an honorary degree at the University of Bergen.
+
+Tokens:
+In
+the
+last
+year
+of
+his
+life
+,
+among
+his
+other
+honorary
+degrees
+,
+he
+held
+an
+honorary
+degree
+at
+the
+University
+of
+Bergen
+.
+Coreference set: 1
+1 18 16 31 1 4 1 15
+1 18 16 19 1 4 1 15
+2 1 1 2 1 4 1 15
+3 12 11 13 1 4 1 15
+4 2 1 4 1 4 1 15
+9 6 5 8 1 4 1 15
+10 7 7 8 1 4 1 15
+10 29 29 30 1 4 1 15
+11 1 1 2 1 4 1 15
+12 6 6 7 1 4 1 15
+12 10 10 11 1 4 1 15
+12 15 15 16 1 4 1 15
+Coreference set: 4
+7 6 6 7 1 23 22 26
+Coreference set: 12
+9 8 5 9 4 4 1 5
+Coreference set: 14
+6 1 1 2 5 13 11 14
+7 1 1 2 5 13 11 14
+7 9 9 10 5 13 11 14
+8 1 1 2 5 13 11 14
+8 11 11 12 5 13 11 14
+Coreference set: 20
+6 15 15 28 6 3 1 4
+Coreference set: 21
+6 25 25 26 6 6 5 13
+Coreference set: 32
+8 22 22 25 8 37 35 42
+8 26 26 29 8 37 35 42
+8 30 30 33 8 37 35 42
+Coreference set: 39
+12 7 6 8 10 8 7 9
+Coreference set: 44
+11 16 16 17 11 4 1 8
+Coreference set: 47
+11 30 29 32 11 13 13 14

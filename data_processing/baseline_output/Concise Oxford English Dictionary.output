@@ -1,0 +1,378 @@
+Document: ID=Concise Oxford English Dictionary (12 sentences, 288 tokens)
+
+Sentence #1 (34 tokens):
+The Concise Oxford English Dictionary (officially titled The Concise Oxford Dictionary until 2002, and widely abbreviated COD) is probably the best-known of the 'smaller' Oxford dictionaries.
+
+Tokens:
+The
+Concise
+Oxford
+English
+Dictionary
+(
+officially
+titled
+The
+Concise
+Oxford
+Dictionary
+until
+2002
+,
+and
+widely
+abbreviated
+COD
+)
+is
+probably
+the
+best
+-
+known
+of
+the
+'
+smaller
+'
+Oxford
+dictionaries
+.
+
+Sentence #2 (29 tokens):
+The latest edition of the Concise Oxford English Dictionary contains over 240,000 entries and 1,728 pages (concise only compared to the OED at over 21,000 pages).
+
+Tokens:
+The
+latest
+edition
+of
+the
+Concise
+Oxford
+English
+Dictionary
+contains
+over
+240,000
+entries
+and
+1,728
+pages
+(
+concise
+only
+compared
+to
+the
+OED
+at
+over
+21,000
+pages
+)
+.
+
+Sentence #3 (31 tokens):
+Its twelfth edition, published in 2011, is used by the United Nations as the current authority for spellings in documents written in the English language for international use.
+
+Tokens:
+Its
+twelfth
+edition
+,
+published
+in
+2011
+,
+is
+used
+by
+the
+United
+Nations
+as
+the
+current
+authority
+for
+spellings
+in
+documents
+written
+in
+the
+English
+language
+for
+international
+use
+.
+
+Sentence #4 (15 tokens):
+It is available as an electronic eBook for a variety of handheld device platforms.
+
+Tokens:
+It
+is
+available
+as
+an
+electronic
+eBook
+for
+a
+variety
+of
+handheld
+device
+platforms
+.
+
+Sentence #5 (20 tokens):
+In addition to providing information for general use, it documents local variations such as U.S. and U.K. usage.
+
+Tokens:
+In
+addition
+to
+providing
+information
+for
+general
+use
+,
+it
+documents
+local
+variations
+such
+as
+U.S.
+and
+U.K.
+usage
+.
+
+Sentence #6 (33 tokens):
+It was started as a derivative of the Oxford English Dictionary (OED), although section S-Z had to be written before the Oxford English Dictionary reached that stage.
+
+Tokens:
+It
+was
+started
+as
+a
+derivative
+of
+the
+Oxford
+English
+Dictionary
+(
+OED
+)
+,
+although
+section
+S
+-
+Z
+had
+to
+be
+written
+before
+the
+Oxford
+English
+Dictionary
+reached
+that
+stage
+.
+
+Sentence #7 (25 tokens):
+However, the eleventh edition was based on the Oxford Dictionary of English (also known as the NODE) rather than the OED.
+
+Tokens:
+However
+,
+the
+eleventh
+edition
+was
+based
+on
+the
+Oxford
+Dictionary
+of
+English
+(
+also
+known
+as
+the
+NODE
+)
+rather
+than
+the
+OED
+.
+
+Sentence #8 (13 tokens):
+The most recent edition is the 12th edition, published in 2011.
+
+Tokens:
+The
+most
+recent
+edition
+is
+the
+12th
+edition
+,
+published
+in
+2011
+.
+
+Sentence #9 (14 tokens):
+Until 2000, it was the dictionary used on the game show Countdown.
+
+Tokens:
+Until
+2000
+,
+it
+was
+the
+dictionary
+used
+on
+the
+game
+show
+Countdown
+.
+
+Sentence #10 (28 tokens):
+This edition was to be the last Concise Oxford Dictionary to be used on Countdown, as contestant Helen Wrigglesworth declared ROADSIDE and it was declared illegal.
+
+Tokens:
+This
+edition
+was
+to
+be
+the
+last
+Concise
+Oxford
+Dictionary
+to
+be
+used
+on
+Countdown
+,
+as
+contestant
+Helen
+Wrigglesworth
+declared
+ROADSIDE
+and
+it
+was
+declared
+illegal
+.
+
+Sentence #11 (33 tokens):
+After further inspection from Mark Nyman, the dictionary was found to not have any compound words in it, and was thus abandoned and the show reverted to the 9th edition.
+
+Tokens:
+After
+further
+inspection
+from
+Mark
+Nyman
+,
+the
+dictionary
+was
+found
+to
+not
+have
+any
+compound
+words
+in
+it
+,
+and
+was
+thus
+abandoned
+and
+the
+show
+reverted
+to
+the
+9th
+edition
+.
+
+Sentence #12 (13 tokens):
+The show switched to New Oxford Dictionary of English in series 43.
+
+Tokens:
+The
+show
+switched
+to
+New
+Oxford
+Dictionary
+of
+English
+in
+series
+43
+.
+Coreference set: 3
+1 5 1 21 2 9 5 10
+1 23 23 34 2 9 5 10
+6 11 8 12 2 9 5 10
+6 29 26 30 2 9 5 10
+10 10 6 11 2 9 5 10
+11 9 8 10 2 9 5 10
+11 19 19 20 2 9 5 10
+Coreference set: 11
+3 1 1 2 2 3 1 10
+Coreference set: 16
+7 24 23 25 2 23 22 28
+Coreference set: 20
+4 1 1 2 3 3 1 4
+Coreference set: 21
+8 12 12 13 3 7 7 8
+Coreference set: 30
+5 10 10 11 5 2 2 9
+Coreference set: 39
+8 8 6 13 8 4 1 5
+8 8 6 9 8 4 1 5
+10 2 1 3 8 4 1 5
+Coreference set: 40
+9 4 4 5 9 2 2 3
+9 7 6 14 9 2 2 3
+Coreference set: 41
+9 13 10 14 10 15 15 16
+Coreference set: 45
+12 2 1 3 11 27 26 28

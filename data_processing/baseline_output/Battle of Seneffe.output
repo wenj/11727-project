@@ -1,0 +1,297 @@
+Document: ID=Battle of Seneffe (10 sentences, 219 tokens)
+
+Sentence #1 (39 tokens):
+The Battle of Seneffe was fought on 11 August 1674 between French army under the command of Louis II de Bourbon, Prince de Condé and the Dutch-German-Spanish army under William III of Orange.
+
+Tokens:
+The
+Battle
+of
+Seneffe
+was
+fought
+on
+11
+August
+1674
+between
+French
+army
+under
+the
+command
+of
+Louis
+II
+de
+Bourbon
+,
+Prince
+de
+Condé
+and
+the
+Dutch
+-
+German
+-
+Spanish
+army
+under
+William
+III
+of
+Orange
+.
+
+Sentence #2 (28 tokens):
+During the Franco-Dutch war, William III commanded a Dutch-German-Spanish army through the southern Netherlands into the territory of Northern France.
+
+Tokens:
+During
+the
+Franco
+-
+Dutch
+war
+,
+William
+III
+commanded
+a
+Dutch
+-
+German
+-
+Spanish
+army
+through
+the
+southern
+Netherlands
+into
+the
+territory
+of
+Northern
+France
+.
+
+Sentence #3 (17 tokens):
+France defended this area with an army under Louis II de Bourbon, Prince de Condé.
+
+Tokens:
+France
+defended
+this
+area
+with
+an
+army
+under
+Louis
+II
+de
+Bourbon
+,
+Prince
+de
+Condé
+.
+
+Sentence #4 (15 tokens):
+For five weeks the two armies manoeuvred without getting into combat with each other.
+
+Tokens:
+For
+five
+weeks
+the
+two
+armies
+manoeuvred
+without
+getting
+into
+combat
+with
+each
+other
+.
+
+Sentence #5 (22 tokens):
+On the 10th of August, William III decided to head for Paris in order to force the enemy into fighting.
+
+Tokens:
+On
+the
+10th
+of
+August
+,
+William
+III
+decided
+to
+head
+for
+Paris
+in
+order
+to
+force
+the
+enemy
+into
+fighting
+.
+
+Sentence #6 (26 tokens):
+Condé sent a detachment of about 500 horsemen to keep the Dutch vanguard busy near the village of Seneffe, blocking the advance of William.
+
+Tokens:
+Condé
+sent
+a
+detachment
+of
+about
+500
+horsemen
+to
+keep
+the
+Dutch
+vanguard
+busy
+near
+the
+village
+of
+Seneffe
+,
+blocking
+the
+advance
+of
+William
+.
+
+Sentence #7 (20 tokens):
+In the meantime, Condé tried to surround the 60,000 allied troops with the 45,000 men at his disposal.
+
+Tokens:
+In
+the
+meantime
+,
+Condé
+tried
+to
+surround
+the
+60,000
+allied
+troops
+with
+the
+45,000
+men
+at
+his
+disposal
+.
+
+Sentence #8 (20 tokens):
+The horsemen managed to keep the Dutch vanguard busy, but the envelopment of the main allied force failed.
+
+Tokens:
+The
+horsemen
+managed
+to
+keep
+the
+Dutch
+vanguard
+busy
+,
+but
+the
+envelopment
+of
+the
+main
+allied
+force
+failed
+.
+
+Sentence #9 (14 tokens):
+After ten hours Condé had 8,000 dead or wounded and William - 11,000.
+
+Tokens:
+After
+ten
+hours
+Condé
+had
+8,000
+dead
+or
+wounded
+and
+William
+-
+11,000
+.
+
+Sentence #10 (18 tokens):
+Both armies retreated from the battlefield and although the battle was indecisive; both sides claimed victory.
+
+Tokens:
+Both
+armies
+retreated
+from
+the
+battlefield
+and
+although
+the
+battle
+was
+indecisive
+;
+both
+sides
+claimed
+victory
+.
+Coreference set: 1
+6 19 19 20 1 4 4 5
+Coreference set: 2
+3 12 9 17 1 21 18 22
+3 12 9 13 1 21 18 22
+Coreference set: 3
+3 16 14 17 1 25 23 26
+6 1 1 2 1 25 23 26
+7 5 5 6 1 25 23 26
+7 18 18 19 1 25 23 26
+9 4 4 5 1 25 23 26
+Coreference set: 5
+10 10 9 11 1 2 1 5
+Coreference set: 7
+5 5 5 6 1 9 9 11
+Coreference set: 11
+2 9 8 10 1 36 35 39
+5 8 7 9 1 36 35 39
+Coreference set: 14
+3 1 1 2 2 27 26 28
+Coreference set: 29
+9 11 11 14 6 25 25 26
+9 11 11 12 6 25 25 26
+Coreference set: 31
+8 2 1 3 6 8 6 9
+Coreference set: 32
+8 8 6 9 6 13 11 14
